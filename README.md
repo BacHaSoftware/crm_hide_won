@@ -8,7 +8,7 @@
     <img src="/bhs_crm_hide_won/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Password Policy</h3>
+  <h3 align="center">Hide Won Lead/Opportunities</h3>
 
   <p align="center">
 
