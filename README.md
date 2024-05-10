@@ -122,7 +122,7 @@ Need assistance with setup or have any concerns? Contact Bac Ha Software directl
 
 [![WEBSITE][website-shield]][website-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/BacHaSoftware/password_policy](https://github.com/BacHaSoftware/password_policy)
+Project Link: [https://github.com/BacHaSoftware/crm_hide_won](https://github.com/BacHaSoftware/crm_hide_won)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
