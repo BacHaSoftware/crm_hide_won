@@ -4,7 +4,7 @@
 
 {
     'name': 'Hide Won Lead/Opportunities',
-    'version': '17.0',
+    'version': '1.0',
     'category': 'Sales/CRM',
     'sequence': -115,
     'summary': 'Module allows hide won lead/opportunities by optional.',
