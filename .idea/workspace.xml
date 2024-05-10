@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ef88d2-c115-4f73-9087-e701e6960c72" name="Changes" comment="v15: Update README">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/Customization_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/Development_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/Implementation_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/Migration_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/Support_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/Training_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/call.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/facebook_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/instagram_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/linkedin_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/mail_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/check_in_location.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/crm_hide_won.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/employee_user.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/hr_attendance_auto_checkout.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/hr_employee_move.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/password_policy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/project_task_checklist.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/show_hide_password.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/other_module/unassign_user_task.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/skype_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/twitter_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/whatsapp_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/youtube_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/banner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/banner.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/img_hide_won.png" beforeDir="false" afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/screen/img_hide_won.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/img_hide_won1.png" beforeDir="false" afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/screen/img_hide_won1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/img_hide_won_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/screen/img_hide_won_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/img_hide_won_filter1.png" beforeDir="false" afterPath="$PROJECT_DIR$/bhs_crm_hide_won/static/description/imgs/screen/img_hide_won_filter1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="15.0" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gG6jjPyOCaqDywDGION9J15tqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ef88d2-c115-4f73-9087-e701e6960c72" name="Changes" comment="" />
+      <created>1715311704153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715311704153</updated>
+    </task>
+    <task id="LOCAL-00001" summary="v17: Update README">
+      <created>1715336561799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715336561799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v17: Update README">
+      <created>1715336743696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715336743696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v17: Update README">
+      <created>1715336953983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715336953983</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v17: Update README">
+      <created>1715338163981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715338163981</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v15: Update README">
+      <created>1715338788569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715338788569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v17: Update README" />
+    <MESSAGE value="v15: Update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="v15: Update README" />
+  </component>
+</project>
