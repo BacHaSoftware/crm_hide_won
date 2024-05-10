@@ -74,9 +74,8 @@ This module needs the Python library pandas, otherwise it cannot be installed an
  -->
 ### Installation
 
-1. Install module  <code>bhs_password_policy</code>
-2. In <code>Setting</code>, go to the <code>Password Policy</code> then configuration section
-Configure your desired password rules based on the given parameters
+Install module  <code>bhs_crm_hide_won</code>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
