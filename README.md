@@ -47,7 +47,7 @@ This module will be a great solution for you as you can still hide won leads and
 ## About The Project
 
 <div align="left">
-  <a href="https://github.com/BacHaSoftware/crm_hide_">
+  <a href="https://github.com/BacHaSoftware/crm_hide_won">
     <img src="/bhs_crm_hide_won/static/description/imgs/screen/img_hide_won_filter1.png" alt="Setting">
   </a>
 </div>
@@ -131,7 +131,7 @@ Project Link: [https://github.com/BacHaSoftware/crm_hide_won](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-url]: https://github.com/BacHaSoftware/password_policy/blob/17.0/LICENSE.txt
+[license-url]: https://github.com/BacHaSoftware/crm_hide_won/blob/17.0/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/bac-ha-software
 [website-shield]: https://img.shields.io/badge/-website-black.svg?style=for-the-badge&logo=website&colorB=555
