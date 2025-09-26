@@ -43,11 +43,11 @@
             <field name="model">crm.lead</field>
             <field name="inherit_id" ref="crm.crm_case_kanban_view_leads"/>
             <field name="arch" type="xml">
-                <xpath expr="//div[hasclass('oe_kanban_bottom_left')]" position="inside">
+                <xpath expr="//field[@name='activity_ids']" position="after">
                     <field name="hide" invisible="1"/>
-                    <a name="action_hide" type="object" class="btn btn-info btn-sm"
+                    <a name="action_hide" type="object" class="ms-2 btn btn-info btn-sm"
                        role="button" title="Hide this Opportunity" invisible="hide == True">Hide</a>
-                    <a name="action_unhide" type="object" class="btn btn-info btn-sm"
+                    <a name="action_unhide" type="object" class="ms-2 btn btn-info btn-sm"
                        role="button" title="Unhide this Opportunity" invisible="hide == False">Unhide</a>
                 </xpath>
             </field>
@@ -68,7 +68,7 @@
         <record model="ir.actions.act_window" id="crm.crm_lead_action_pipeline">
             <field name="name">Pipeline</field>
             <field name="res_model">crm.lead</field>
-            <field name="view_mode">kanban,tree,form</field>
+            <field name="view_mode">kanban,list,form</field>
             <field name="domain">[('type','=','opportunity')]</field>
             <field name="context">{
                     'default_type': 'opportunity',
