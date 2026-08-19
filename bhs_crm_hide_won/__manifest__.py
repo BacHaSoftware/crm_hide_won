@@ -3,7 +3,7 @@
 
 
 {
-    'name': 'Hide Won Lead/Opportunities',
+    'name': 'Opportunity Visibility Control',
     'version': '1.0',
     'category': 'Sales/CRM',
     'sequence': -115,
