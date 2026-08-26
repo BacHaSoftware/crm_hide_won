@@ -3,7 +3,7 @@
 
 
 {
-    'name': 'Hide Won Lead/Opportunities',
+    'name': 'Opportunity Visibility Control',
     'version': '15.0',
     'category': 'Sales/CRM',
     'sequence': -115,
@@ -18,7 +18,7 @@
     'installable': True,
     'application': True,
     'auto_install': False,
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     # Author
     'author': 'Bac Ha Software',
     'maintainer': 'Bac Ha Software',
